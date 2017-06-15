@@ -33,5 +33,11 @@ public class MainActivity extends AppCompatActivity {
             t.show();
         }
     }
+    
+
+public	String mesajým(){
+	return "ben bir mouse yim";
+}
+
 
 }
