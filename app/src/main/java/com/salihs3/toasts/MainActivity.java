@@ -19,6 +19,8 @@ public class MainActivity extends AppCompatActivity {
     public void calistir(View v){
         if(v.getId()==R.id.button){
             Toast.makeText(this,"ben bir mesajım",Toast.LENGTH_LONG).show();
+            Toast.makeText(this,"ben bir mesajım2",Toast.LENGTH_LONG).show();
+
         }
         else {
             Toast t=new Toast(this);
